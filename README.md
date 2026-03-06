@@ -128,14 +128,23 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 3. The project is divided into following parts:-
    - `Data Preprocessing and Cleaning`: handling missing values, feature selection, and normalization will be applied to improve data quality and model performance.
    - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
-   - `Prediction Task`: Predict the chances of heart disease in patients: Learn a classification algorithm such as logistic regression, and evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
+   - `Prediction Task`: Predict the chances of heart disease in patients: Learn a classification algorithm such as logistic regression, and evaluate model performance using metrics such as `accuracy`, `precision`, `recall`, `F1-score`, and `confusion matrix`.
 4. The system can assist healthcare professionals by providing `early warnings for patients at risk of coronary heart disease`.
 5. The proposed model aims to support preventive healthcare and clinical decision-making, helping reduce mortality through timely diagnosis and treatment.
 
 
-### Project 4 : Early Detection of Coronary Heart Disease
+### Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques
 
-1. The dataset is located in the `data/Cervical data` directory. 
+1. The aim of this project is to develop a machine learning model for predicting the risk of cervical cancer based on patients' demographic, behavioral, and medical history data. The dataset is located in the `data/Cervical data` directory.
+2. It contains medical and lifestyle information collected from 858 patients at Hospital Universitario de Caracas in Venezuela.
+3. The dataset contains 36 attributes, including factors such as `age`, `number of sexual partners`, `smoking habits`, `pregnancies`, `contraceptive use`, and `sexually transmitted diseases (STDs)`.
+4. Several diagnostic test results, such as `Hinselmann`, `Schiller`, `cytology`, and `biopsy` are included as target variables to determine the presence of cervical cancer.
+5. The project is divided into following parts:-
+   - `Data Preprocessing and Cleaning`: handling missing values, feature selection, and normalization will be applied to improve data quality and model performance.
+   - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
+   - `Prediction Task`: Detection of cervical cancer: Learn classification algorithms such as Logistic Regression, Decision Tree, Random Forest, or Support Vector Machine will be used to build the prediction model, and evaluate model performance using metrics such as `accuracy`, `precision`, `recall`, `F1-score`, and `confusion matrix`.
+6. The developed system can assist healthcare professionals in identifying women at high risk of cervical cancer, enabling early screening and preventive treatment.
+
 
 ---
 ## Resources
