@@ -21,12 +21,7 @@
     - [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques)
     - [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods)
     - [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging)
-    - [Project 7 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data)
-    - [Project 8 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization)
-    - [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization)
-    - [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification)
-    - [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk)
-    - [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS)
+    - [Project 7 : Predicting Maternal Health Risk](#project-7--Predicting-Maternal-Health-Risk)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 
@@ -36,8 +31,8 @@
 ## Instructions
 
 ### General Instructions
-1. The project is to be done in groups of 3 students. The students are expected to work together collaboratively.
-2. The choice of programming language is left to the students. However, the most common languages used are Python and C/C++.
+1. The project is to be done in groups of 5 students. The students are expected to work together collaboratively.
+2. The choice of programming language is left to the students. However, the most common language used is Python.
 3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
 4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
 5. Each student will be evaluated based on the contribution towards the project. Make sure you are contributing equally to the project.
@@ -45,22 +40,16 @@
 7. Late submissions will not be accepted.
 ### Evaluation Policy
 1. The final project evaluation is based on the following criteria:
-   1. `Continuous Evaluation (CE) : 40%`
-   2. `Code Quality and Documentation : 20%`
-   3. `Final Submission and Report : 40%` 
-2. `Continuous Evaluation (CE)` : 40%
-   - The CE will be based on the following criteria:
-      1. Your participation in the weekly meetings with your mentor TA.
-      2. Your weekly progress and updates on the project.
-3. `Code Quality and Documentation` : 20%
+   1. `Code Quality and Documentation : 60%`
+   2. `Final Submission and Report : 40%` 
+2. `Code Quality and Documentation` : 60%
    - This will be based on the following criteria:
-      1. Code Quality : 10% (based on the code quality and readability)
-      2. Documentation : 10% (based on the documentation of the code and the project)
-4. `Final Submission and Report` : 40%
+      1. Code Quality : 30% (based on the code quality and readability)
+      2. Documentation : 30% (based on the documentation of the code and the project)
+3. `Final Submission and Report` : 40%
    - This will be based on the following criteria:
       1. Final Submission : 20% (based on the final submission of the project)
       2. Final Report : 20% (based on the final report of the project)
-5. CE will be evaluated if you have attended `at least 75%` of the weekly meetings with your mentor TA.
 
 
 ### Instructions to get started with the project
@@ -96,27 +85,20 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
-|  | [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis) | _ |
-|  | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | _ |
-|  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | _ |
-|  | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | _ |
-|  | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | _ |
-|  | [Project 6 : Impact of Soil Quality on Crop Growth Analysis](#project-6--impact-of-soil-quality-on-crop-growth-analysis) | _ |
-|  | [Project 6.1 : Impact of Soil Quality on Crop Growth Analysis and Model Building](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-model-building) | _ |
-|  | [Project 6.2 : Impact of Soil Quality on Crop Growth Analysis and Building of An Application](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-building-of-an-application) | _ |
-| | [Project 7 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data) | _ |
-|  | [Project 8 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization) | _ |
-|  | [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization) | _ |
-|  | [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification) | _ |
-|  | [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) | _ |
-| | [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS) | _ |
+|  |  | _ |
+|  |  | _ |
+|  |  | _ |
+|  |  | _ |
+|  |  | _ |
+|  |  | _ |
+|  |  | _ |
 
 
 ## Projects
 
 ### Project 1 : Multiclass classification of breast cancer from BUS images
 
-1. The project aims to analyse the medical transcription dataset. The dataset is located in the `data/medical_transcriptions/mtsamples.csv` directory.
+1. The project aims to analyse the medical transcription dataset. The dataset is located in the `data/Breast data` directory.
 2. The dataset is a `csv` file. `CSV` stands for `C`omma `S`eparated `V`alues. It is a simple file format used to store tabular data, such as a spreadsheet or database. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
 3. The dataset contains following fields : 
    - `description` : Short brief of the interaction between the patient and the doctor.
