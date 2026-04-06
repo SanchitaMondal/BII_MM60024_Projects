@@ -92,7 +92,7 @@ The deadline for the final project submission is 1st May 2026, 23:59 IST. (Tenta
 | Group 5 | [Project 1 : Classification of Breast Cancer Using Ultrasound Images](#project-1--Classification-of-Breast-Cancer-Using-Ultrasound-Images) | _ |
 | Group 13 | [Project 2 : Maternal Health Risk Prediction in Personalized Patient Care](#project-2--Maternal-Health-Risk-Prediction-in-Personalized-Patient-Care) | _ |
 | Group 6 & 11 | [Project 3 : Early Detection of Coronary Heart Disease](#project-3--Early-Detection-of-Coronary-Heart-Disease) | _ |
-| Group 4 | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
+| Group 1 & 4 | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
 | Group 14 | [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods) | _ |
 | Group 7 | [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging) | _ |
 | Group 15 | [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images) | _ |
